@@ -2,7 +2,7 @@
 layout: default
 img: python.PNG
 category: Services
-title: 파이썬 기반<br>Web Crawling
+title: Web Crawling<br>by Python
 description: |
 ---
 오픈 API인 [경기데이터드림](https://data.gg.go.kr)의 데이터를 파이썬으로 크롤링하였습니다.
