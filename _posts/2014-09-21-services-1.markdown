@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: python.PNG
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: 파이썬 기반<br>Web Crawling
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+오픈 API인 [경기데이터드림](https://data.gg.go.kr)의 데이터를 파이썬으로 크롤링하였습니다.
